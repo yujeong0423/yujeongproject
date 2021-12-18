@@ -1,0 +1,12 @@
+body {
+    background : white url("images/images.jpg") no-repeat;
+    background-position: center;
+    background-size: 30%;
+    height: 1000px;
+}
+
+li a {
+    color : brown;
+}
+
+
